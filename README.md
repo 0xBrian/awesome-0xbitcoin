@@ -89,27 +89,31 @@
     - [Nametag Token](https://nametagtoken.com/)
     - [Simple @handles for Ethereum](https://medium.com/@admazzola/simple-handles-for-ethereum-c132353b55be)
 
+## Mining
+- ### Guides
+    - [Getting Started Mining 0xBitcoin (0xBTC) with Cosmic 4.0a Public Test](https://youtu.be/_uEczwlFBbE)
+    - [How to Mine 0xBitcoin: Complete Beginner’s Guide](https://blockonomi.com/how-to-mine-0xbitcoin/)
+- ### Calculators
+    - [minerstat](https://minerstat.com/coin/0XBTC)
+    - [CoinCalculators](https://www.coincalculators.io/coin/0xbitcoin)
+    - [CoinToMine](https://cointomine.today/calculator/coin/0xBTC/)
+    - [CryptoRival](https://cryptorival.com/calcs/0xbtc/)
+- ### Software
+    - [Links to the Newest/Best Miners for nVidia, AMD GPUs (and historical links)](https://www.reddit.com/r/0xbitcoin/comments/8o06dk/links_to_the_newestbest_miners_for_nvidia_amd/)
+    - [COSMiC-v3 Bitbucket repo](https://bitbucket.org/LieutenantTofu/cosmic-v3/src/master/)
+    - [SoliditySHA3Miner GitHub repo](https://github.com/lwYeo/SoliditySHA3Miner)
+    - [0xbitcoin-gpuminer GitHub repo](https://github.com/azlehria/0xbitcoin-gpuminer)
+- ### Pools
+- [Mike.rs](http://mike.rs/)
+- [Tosti](http://tosti.ro/)
+- [Token Mining Pool](http://tokenminingpool.com/)
 
-https://youtu.be/_uEczwlFBbE
-https://blockonomi.com/how-to-mine-0xbitcoin/
+## Alternatives
+- ### wBTC
+    - [Wrapped Bitcoin (WBTC) is the Wrong Approach to Bitcoin on Ethereum](https://medium.com/0xbitcoinfoundation/wrapped-bitcoin-wbtc-is-the-wrong-approach-to-bitcoin-on-ethereum-7a3c7ffd732c)
 
-https://minerstat.com/coin/0XBTC
-https://www.coincalculators.io/coin/0xbitcoin
-https://cointomine.today/calculator/coin/0xBTC/
-https://cryptorival.com/calcs/0xbtc/
+## Related art
+- [Zero-chan Learns Crypto (RPG Maker MV game)](https://meoau.itch.io/zero-chan-learns-crypto)
 
-https://www.reddit.com/r/0xbitcoin/comments/8o06dk/links_to_the_newestbest_miners_for_nvidia_amd/
-https://bitbucket.org/LieutenantTofu/cosmic-v3/src/master/
-https://github.com/lwYeo/SoliditySHA3Miner
-https://github.com/azlehria/0xbitcoin-gpuminer
-
-http://mike.rs/
-http://tosti.ro/
-http://tokenminingpool.com/
-http://0xbtc.pool.nocroom.com/
-https://meoau.itch.io/zero-chan-learns-crypto
-
-https://cointobuy.io/0xbtc
-
-https://medium.com/0xbitcoinfoundation/wrapped-bitcoin-wbtc-is-the-wrong-approach-to-bitcoin-on-ethereum-7a3c7ffd732c
-
+## Automated ratings
+- [cointobuy.io](https://cointobuy.io/0xbtc)

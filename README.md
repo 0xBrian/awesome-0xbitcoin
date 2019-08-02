@@ -1,8 +1,9 @@
 # awesome-0xbitcoin
 
-https://0xbitcoin.org/
-https://0xbitcoin.foundation/
-https://0xbtc.wiki/
+## Main sites
+- [Homepage](https://0xbitcoin.org/)
+- [Foundation](https://0xbitcoin.foundation/)
+- [Wiki](https://0xbtc.wiki/)
 
 https://bitcointalk.org/index.php?topic=3039182.0
 https://0x1d00ffff.github.io/0xBTC-Stats

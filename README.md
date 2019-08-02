@@ -20,24 +20,24 @@
 - [What is 0xBitcoin?](https://www.youtube.com/watch?v=lWMyal5r7bY)
 - [0xBitcoin (0xBTC) Explained | BlockWolf](https://www.youtube.com/watch?v=ChjgUAOiIPw)
 
-https://coinmarketcap.com/currencies/0xbtc/
-https://www.coingecko.com/en/coins/0xbitcoin
-https://www.livecoinwatch.com/price/0xBitcoin-0xBTC
-https://www.coinbase.com/price/0xbtc
-https://digitalcoinprice.com/coins/0xbtc
-https://neironix.io/cryptocurrency/0xbitcoin
-https://bitgur.com/coin/0XBTC
-https://coinbuddy.co/coins/0xbitcoin
-https://coinpaprika.com/coin/0xbtc-0xbitcoin/
-https://coincodex.com/crypto/0xbtc/
-https://info.binance.com/en/currencies/0xbitcoin
-https://cmc.io/coins/0xbtc
-https://www.advfn.com/crypto/0xBitcoin-Token-0XBTC
-https://athcoinindex.com/coin/oxbitcoin
-https://coinranking.com/coin/0xbitcoin-0xbtc
-https://coinlib.io/coin/0xBTC/0xBitcoin
-https://www.marketbeat.com/cryptocurrencies/0xbitcoin/
-https://www.worldcoinindex.com/coin/0xbitcoin
+- [CoinMarketCap](https://coinmarketcap.com/currencies/0xbtc/)
+- [CoinGecko](https://www.coingecko.com/en/coins/0xbitcoin)
+- [LiveCoinWatch](https://www.livecoinwatch.com/price/0xBitcoin-0xBTC)
+- [Coinbase](https://www.coinbase.com/price/0xbtc)
+- [Digitalcoin](https://digitalcoinprice.com/coins/0xbtc)
+- [Neironix](https://neironix.io/cryptocurrency/0xbitcoin)
+- [Bitgur](https://bitgur.com/coin/0XBTC)
+- [Coinbuddy](https://coinbuddy.co/coins/0xbitcoin)
+- [coinpaprika](https://coinpaprika.com/coin/0xbtc-0xbitcoin/)
+- [CoinCodex](https://coincodex.com/crypto/0xbtc/)
+- [Binance](https://info.binance.com/en/currencies/0xbitcoin)
+- [CMC.IO](https://cmc.io/coins/0xbtc)
+- [ADVFN](https://www.advfn.com/crypto/0xBitcoin-Token-0XBTC)
+- [ATHCoinIndex](https://athcoinindex.com/coin/oxbitcoin)
+- [Coinranking](https://coinranking.com/coin/0xbitcoin-0xbtc)
+- [Coinlib.io](https://coinlib.io/coin/0xBTC/0xBitcoin)
+- [MarketBeat](https://www.marketbeat.com/cryptocurrencies/0xbitcoin/)
+- [WorldCoinIndex](https://www.worldcoinindex.com/coin/0xbitcoin)
 
 https://www.altilly.com/asset/0xBTC
 https://dappradar.com/app/56/0xbitcoin

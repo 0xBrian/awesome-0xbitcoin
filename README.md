@@ -81,13 +81,14 @@
 - ### ?
     - [CoinExchange](https://www.coinexchange.io/market/0xBTC/BTC)
 
-https://lavatoken.com/
-https://medium.com/@admazzola/how-to-transfer-0xbtc-with-no-eth-f88a95598c3c
+## Related projects
+- ### Lava Token
+    - [Lava Token](https://lavatoken.com/)
+    - [How to Transfer 0xBTC with no ETH](https://medium.com/@admazzola/how-to-transfer-0xbtc-with-no-eth-f88a95598c3c)
+- ### Nametag Token
+    - [Nametag Token](https://nametagtoken.com/)
+    - [Simple @handles for Ethereum](https://medium.com/@admazzola/simple-handles-for-ethereum-c132353b55be)
 
-https://nametagtoken.com/
-https://medium.com/@admazzola/simple-handles-for-ethereum-c132353b55be
-
-https://medium.com/0xbitcoinfoundation/wrapped-bitcoin-wbtc-is-the-wrong-approach-to-bitcoin-on-ethereum-7a3c7ffd732c
 
 https://youtu.be/_uEczwlFBbE
 https://blockonomi.com/how-to-mine-0xbitcoin/
@@ -109,3 +110,6 @@ http://0xbtc.pool.nocroom.com/
 https://meoau.itch.io/zero-chan-learns-crypto
 
 https://cointobuy.io/0xbtc
+
+https://medium.com/0xbitcoinfoundation/wrapped-bitcoin-wbtc-is-the-wrong-approach-to-bitcoin-on-ethereum-7a3c7ffd732c
+

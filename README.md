@@ -5,15 +5,16 @@
 - [Foundation](https://0xbitcoin.foundation/)
 - [Wiki](https://0xbtc.wiki/)
 
-https://bitcointalk.org/index.php?topic=3039182.0
-https://0x1d00ffff.github.io/0xBTC-Stats
+- [BitcoinTalk thread](https://bitcointalk.org/index.php?topic=3039182.0)
+- [Statistics](https://0x1d00ffff.github.io/0xBTC-Stats)
 
-https://github.com/0xbitcoin/white-paper
-https://www.altcointradershandbook.com/coin-report-0xbitcoin/
-https://medium.com/@0xK/the-what-the-why-and-the-how-of-0xbitcoin-5c635fe2df6b
-https://medium.com/@mseiler1/0xbitcoin-and-the-first-mineable-token-faaf8fb84d23
-https://www.ccn.com/0xbitcoin-ethereums-answer-to-bitcoins-proof-of-work/
-https://blockwolf.com/0xbitcoin-0xbtc/
+## Articles and explanations
+- [Official whitepaper](https://github.com/0xbitcoin/white-paper)
+- [Nik Patel's Coin Report #25: 0xBitcoin](https://www.altcointradershandbook.com/coin-report-0xbitcoin/)
+- [The What, the Why, and the How of 0xBitcoin](https://medium.com/@0xK/the-what-the-why-and-the-how-of-0xbitcoin-5c635fe2df6b)
+- [How I joined the open source community around 0xBitcoin — The First Mineable Token](https://medium.com/@mseiler1/0xbitcoin-and-the-first-mineable-token-faaf8fb84d23)
+- [0xBitcoin - Ethereum's Answer to Bitcoin's Proof-of-Work](https://www.ccn.com/0xbitcoin-ethereums-answer-to-bitcoins-proof-of-work/)
+- [What is 0xBitcoin?](https://blockwolf.com/0xbitcoin-0xbtc/)
 
 https://www.youtube.com/watch?v=lWMyal5r7bY
 https://www.youtube.com/watch?v=ChjgUAOiIPw

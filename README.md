@@ -50,19 +50,20 @@
 - [Blockspot.io](https://blockspot.io/coin/0xbitcoin/)
 
 ## Block explorers
-https://0xbtc.info/
-https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
-http://explorer.0xbtc.io/
-https://enjinx.io/eth/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/transfers
-https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
+- [0xBTC.info](https://0xbtc.info/)
+- [Etherscan](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
+- [0xBitcoin Explorer](http://explorer.0xbtc.io/)
+- [EnjinX](https://enjinx.io/eth/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/transfers)
+- [Ethplorer](https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 
-https://discord.gg/JGEqqmS
-https://reddit.com/r/0xbitcoin
-http://forum.0xbtc.io/
-
-https://twitter.com/0xbitcoin_erc20?lang=en
-https://twitter.com/0xbtcfoundation?lang=en
-https://twitter.com/0xbtc?lang=en
+## Social media
+- [Discord](https://discord.gg/JGEqqmS)
+- [Reddit /r/0xBitcoin](https://reddit.com/r/0xbitcoin)
+- [0xBitcoin Forum](http://forum.0xbtc.io/)
+### Twitter
+- [0xBitcoin](https://twitter.com/0xbitcoin_erc20?lang=en)
+- [0xBitcoin Foundation](https://twitter.com/0xbtcfoundation?lang=en)
+- [0xBTC](https://twitter.com/0xbtc?lang=en)
 
 https://mercatox.com/exchange/0xBTC/ETH
 https://yobit.net/en/trade/0XBTC/BTC

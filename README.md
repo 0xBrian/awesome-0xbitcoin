@@ -60,10 +60,10 @@
 - [Discord](https://discord.gg/JGEqqmS)
 - [Reddit /r/0xBitcoin](https://reddit.com/r/0xbitcoin)
 - [0xBitcoin Forum](http://forum.0xbtc.io/)
-### Twitter
-- [0xBitcoin](https://twitter.com/0xbitcoin_erc20?lang=en)
-- [0xBitcoin Foundation](https://twitter.com/0xbtcfoundation?lang=en)
-- [0xBTC](https://twitter.com/0xbtc?lang=en)
+- ### Twitter
+    - [0xBitcoin](https://twitter.com/0xbitcoin_erc20?lang=en)
+    - [0xBitcoin Foundation](https://twitter.com/0xbtcfoundation?lang=en)
+    - [0xBTC](https://twitter.com/0xbtc?lang=en)
 
 https://mercatox.com/exchange/0xBTC/ETH
 https://yobit.net/en/trade/0XBTC/BTC

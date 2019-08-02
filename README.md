@@ -65,8 +65,11 @@
     - [0xBitcoin Foundation](https://twitter.com/0xbtcfoundation?lang=en)
     - [0xBTC](https://twitter.com/0xbtc?lang=en)
 
-https://mercatox.com/exchange/0xBTC/ETH
-https://yobit.net/en/trade/0XBTC/BTC
+## Exchanges
+- ### Centralized
+    - [MERCATOX](https://mercatox.com/exchange/0xBTC/ETH)
+    - [Yobit](https://yobit.net/en/trade/0XBTC/BTC)
+- ### Decentralized
 
 https://0xbitcoin.trade/swap (Uniswap)
 https://dex.0xchange.org/

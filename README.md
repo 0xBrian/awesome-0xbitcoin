@@ -16,8 +16,9 @@
 - [0xBitcoin - Ethereum's Answer to Bitcoin's Proof-of-Work](https://www.ccn.com/0xbitcoin-ethereums-answer-to-bitcoins-proof-of-work/)
 - [What is 0xBitcoin?](https://blockwolf.com/0xbitcoin-0xbtc/)
 
-https://www.youtube.com/watch?v=lWMyal5r7bY
-https://www.youtube.com/watch?v=ChjgUAOiIPw
+## Videos
+- [What is 0xBitcoin?](https://www.youtube.com/watch?v=lWMyal5r7bY)
+- [0xBitcoin (0xBTC) Explained | BlockWolf](https://www.youtube.com/watch?v=ChjgUAOiIPw)
 
 https://coinmarketcap.com/currencies/0xbtc/
 https://www.coingecko.com/en/coins/0xbitcoin

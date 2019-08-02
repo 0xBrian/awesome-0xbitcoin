@@ -20,6 +20,7 @@
 - [What is 0xBitcoin?](https://www.youtube.com/watch?v=lWMyal5r7bY)
 - [0xBitcoin (0xBTC) Explained | BlockWolf](https://www.youtube.com/watch?v=ChjgUAOiIPw)
 
+## Trackers
 - [CoinMarketCap](https://coinmarketcap.com/currencies/0xbtc/)
 - [CoinGecko](https://www.coingecko.com/en/coins/0xbitcoin)
 - [LiveCoinWatch](https://www.livecoinwatch.com/price/0xBitcoin-0xBTC)
@@ -39,14 +40,16 @@
 - [MarketBeat](https://www.marketbeat.com/cryptocurrencies/0xbitcoin/)
 - [WorldCoinIndex](https://www.worldcoinindex.com/coin/0xbitcoin)
 
-https://www.altilly.com/asset/0xBTC
-https://dappradar.com/app/56/0xbitcoin
-https://bloxy.info/token_holders/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
-https://0xtracker.com/tokens/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
-https://www.stateofthedapps.com/dapps/0xbitcoin
-https://eidoo.io/erc20-tokens-list/0xbitcoin-0xbtc
-https://blockspot.io/coin/0xbitcoin/
+## Misc
+- [altilly](https://www.altilly.com/asset/0xBTC)
+- [DappRadar](https://dappradar.com/app/56/0xbitcoin)
+- [Bloxy 0xBitcoin Token Holders](https://bloxy.info/token_holders/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
+- [0xTracker](https://0xtracker.com/tokens/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
+- [State of the DApps](https://www.stateofthedapps.com/dapps/0xbitcoin)
+- [Eidoo](https://eidoo.io/erc20-tokens-list/0xbitcoin-0xbtc)
+- [Blockspot.io](https://blockspot.io/coin/0xbitcoin/)
 
+## Block explorers
 https://0xbtc.info/
 https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31
 http://explorer.0xbtc.io/

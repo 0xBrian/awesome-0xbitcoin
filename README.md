@@ -70,17 +70,16 @@
     - [MERCATOX](https://mercatox.com/exchange/0xBTC/ETH)
     - [Yobit](https://yobit.net/en/trade/0XBTC/BTC)
 - ### Decentralized
-
-https://0xbitcoin.trade/swap (Uniswap)
-https://dex.0xchange.org/
-https://merklex.io/
-https://www.bitcratic.com/#!/trade/0xBTC-ETH/
-https://idex.market/eth/0xbtc
-https://shiftly.finance/
-https://forkdelta.github.io/#!/trade/0xBTC-ETH
-https://app.instex.io/0xBTC-WETH
-
-https://www.coinexchange.io/market/0xBTC/BTC
+    - [Uniswap](https://0xbitcoin.trade/swap)
+    - [0xChange](https://dex.0xchange.org/)
+    - [merkleX](https://merklex.io/)
+    - [Bitcratic](https://www.bitcratic.com/#!/trade/0xBTC-ETH/)
+    - [IDEX](https://idex.market/eth/0xbtc)
+    - [Shiftly](https://shiftly.finance/)
+    - [ForkDelta](https://forkdelta.app/#!/trade/0xBTC-ETH)
+    - [Instex](https://app.instex.io/0xBTC-WETH)
+- ### ?
+    - [CoinExchange](https://www.coinexchange.io/market/0xBTC/BTC)
 
 https://lavatoken.com/
 https://medium.com/@admazzola/how-to-transfer-0xbtc-with-no-eth-f88a95598c3c

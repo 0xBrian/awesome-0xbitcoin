@@ -6,6 +6,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 
 ## Main sites
 - [Homepage](https://0xbitcoin.org/)
+- [Discord group](https://discord.gg/JGEqqmS) (almost all discussion happens here)
 - [Foundation](https://0xbitcoin.foundation/)
 - [Wiki](https://0xbtc.wiki/)
 - [BitcoinTalk thread](https://bitcointalk.org/index.php?topic=3039182.0)

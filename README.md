@@ -1,4 +1,8 @@
-# awesome-0xbitcoin
+# Awesome 0xBitcoin
+
+A curated list of 0xBitcoin resources and projects.
+
+If you want to add to the list, [here's how](CONTRIBUTING.md).
 
 ## Main sites
 - [Homepage](https://0xbitcoin.org/)

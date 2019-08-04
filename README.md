@@ -86,6 +86,13 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - ### Nametag Token
     - [Nametag Token](https://nametagtoken.com/)
     - [Simple @handles for Ethereum](https://medium.com/@admazzola/simple-handles-for-ethereum-c132353b55be)
+- [0xBitcoin-media](https://github.com/0xBrian/0xBitcoin-media) Text, logos, video metadata, etc., related to 0xBitcoin.
+- [0xBTCpay](https://github.com/0xBrian/0xBTCpay) Webshop-agnostic 0xBitcoin payment backend
+- [0xBTCpay-demo](https://github.com/0xBrian/0xBTCpay-demo)
+- [0xBitcoin-memes](https://github.com/0xBrian/0xBitcoin-memes) Images related to 0xBitcoin, made by the community.
+- [0xbitcoin-discord-stats](https://github.com/rockmtn/0xbitcoin-discord-stats) Generate graphs of usage of the 0xBitcoin Discord.
+- [stats-api-0xbtc](https://github.com/rockmtn/stats-api-0xbtc) 0xBitcoin stats API (Ruby)
+- [0xbtc-miner-feed](https://github.com/rockmtn/0xbtc-miner-feed) Low-latency mining parameters server for 0xBitcoin miners (Rust)
 
 ## Mining
 - ### Guides

@@ -11,6 +11,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [Wiki](https://0xbtc.wiki/)
 - [BitcoinTalk thread](https://bitcointalk.org/index.php?topic=3039182.0)
 - [Statistics](https://0x1d00ffff.github.io/0xBTC-Stats)
+- [0xBTC.info](https://0xbtc.info/)
 
 ## Articles and explanations
 - [Official whitepaper](https://github.com/0xbitcoin/white-paper)

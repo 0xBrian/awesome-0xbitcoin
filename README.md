@@ -47,15 +47,6 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [WorldCoinIndex](https://www.worldcoinindex.com/coin/0xbitcoin)
 - [Coinsflare](https://coinsflare.com/cryptocurrency/0xbitcoin)
 
-## Misc
-- [altilly](https://www.altilly.com/asset/0xBTC)
-- [DappRadar](https://dappradar.com/app/56/0xbitcoin)
-- [Bloxy 0xBitcoin Token Holders](https://bloxy.info/token_holders/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
-- [0xTracker](https://0xtracker.com/tokens/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
-- [State of the DApps](https://www.stateofthedapps.com/dapps/0xbitcoin)
-- [Eidoo](https://eidoo.io/erc20-tokens-list/0xbitcoin-0xbtc)
-- [Blockspot.io](https://blockspot.io/coin/0xbitcoin/)
-
 ## Block explorers
 - [0xBTC.info](https://0xbtc.info/)
 - [Etherscan](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
@@ -114,6 +105,15 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [Mike.rs](http://mike.rs/)
 - [Tosti](http://tosti.ro/)
 - [Token Mining Pool](http://tokenminingpool.com/)
+
+## Misc
+- [altilly](https://www.altilly.com/asset/0xBTC)
+- [DappRadar](https://dappradar.com/app/56/0xbitcoin)
+- [Bloxy 0xBitcoin Token Holders](https://bloxy.info/token_holders/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
+- [0xTracker](https://0xtracker.com/tokens/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
+- [State of the DApps](https://www.stateofthedapps.com/dapps/0xbitcoin)
+- [Eidoo](https://eidoo.io/erc20-tokens-list/0xbitcoin-0xbtc)
+- [Blockspot.io](https://blockspot.io/coin/0xbitcoin/)
 
 ## Alternatives
 - ### wBTC

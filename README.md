@@ -44,6 +44,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [Coinlib.io](https://coinlib.io/coin/0xBTC/0xBitcoin)
 - [MarketBeat](https://www.marketbeat.com/cryptocurrencies/0xbitcoin/)
 - [WorldCoinIndex](https://www.worldcoinindex.com/coin/0xbitcoin)
+- [Coinsflare](https://coinsflare.com/cryptocurrency/0xbitcoin)
 
 ## Misc
 - [altilly](https://www.altilly.com/asset/0xBTC)

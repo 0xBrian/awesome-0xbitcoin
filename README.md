@@ -12,6 +12,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [BitcoinTalk thread](https://bitcointalk.org/index.php?topic=3039182.0)
 - [Statistics](https://0x1d00ffff.github.io/0xBTC-Stats)
 - [0xBTC.info](https://0xbtc.info/)
+- [0xBTC.info API information](https://0xbtc.info/api)
 
 ## Articles and explanations
 - [Official whitepaper](https://github.com/0xbitcoin/white-paper)
@@ -72,7 +73,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
     - [0xChange](https://dex.0xchange.org/)
     - [merkleX](https://merklex.io/)
     - [Bitcratic](https://www.bitcratic.com/#!/trade/0xBTC-ETH/)
-    - [IDEX](https://idex.market/eth/0xbtc)
+    - ~~[IDEX](https://idex.market/eth/0xbtc)~~
     - [Shiftly](https://shiftly.finance/)
     - [ForkDelta](https://forkdelta.app/#!/trade/0xBTC-ETH)
     - [Instex](https://app.instex.io/0xBTC-WETH)

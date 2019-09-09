@@ -69,7 +69,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
     - [MERCATOX](https://mercatox.com/exchange/0xBTC/ETH)
     - [Yobit](https://yobit.net/en/trade/0XBTC/BTC)
 - ### Decentralized
-    - [Uniswap](https://0xbitcoin.trade/swap)
+    - [Uniswap](https://uniswap.exchange/swap/0xB6eD7644C69416d67B522e20bC294A9a9B405B31)
     - [0xChange](https://dex.0xchange.org/)
     - [merkleX](https://merklex.io/)
     - [Bitcratic](https://www.bitcratic.com/#!/trade/0xBTC-ETH/)

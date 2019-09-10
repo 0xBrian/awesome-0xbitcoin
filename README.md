@@ -13,6 +13,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [Statistics](https://0x1d00ffff.github.io/0xBTC-Stats)
 - [0xBTC.info](https://0xbtc.info/)
 - [0xBTC.info API information](https://0xbtc.info/api)
+- [What To Mine](https://whattomine.com/coins/315-0xbtc-sha3solidity)
 
 ## Articles and explanations
 - [Official whitepaper](https://github.com/0xbitcoin/white-paper)

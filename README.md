@@ -123,6 +123,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [State of the DApps](https://www.stateofthedapps.com/dapps/0xbitcoin)
 - [Eidoo](https://eidoo.io/erc20-tokens-list/0xbitcoin-0xbtc)
 - [Blockspot.io](https://blockspot.io/coin/0xbitcoin/)
+- [Coinwik](https://coinwik.org/0xBitcoin)
 
 ## Alternatives
 - ### wBTC

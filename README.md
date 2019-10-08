@@ -53,6 +53,8 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [0xBTC.info](https://0xbtc.info/)
 - [Etherscan](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 - [0xBitcoin Explorer](http://explorer.0xbtc.io/)
+- [0xBitchain 0xBTC Monitor](https://monitor.0xbitchain.com/dashboard)
+- [Epirus](https://explorer.0xbitchain.com/contracts)
 - [EnjinX](https://enjinx.io/eth/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/transfers)
 - [Ethplorer](https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 

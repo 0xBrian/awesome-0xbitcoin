@@ -96,7 +96,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
     - [Nametag Token](https://nametagtoken.com/)
     - [Simple @handles for Ethereum](https://medium.com/@admazzola/simple-handles-for-ethereum-c132353b55be)
 - ### 0xBitchain - Level 2 0xBitcoin themed Quorum Ethereum sidechain
-    - [0xBitchain Discord](https://discord.gg/9aTgeWN)
+    - [0xBitchain Discord](https://discord.gg/9aTgeWN) (`0xbitchain` channel on the 0xBitcoin Foundation Discord)
     - [0xBitchain Monitor by ConsenSys](https://monitor.0xbitchain.com/dashboard)
     - [0xBitchain Block Explorer by Epirus](https://explorer.0xbitchain.com/contracts)
 

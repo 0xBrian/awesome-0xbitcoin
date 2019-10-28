@@ -53,8 +53,6 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [0xBTC.info](https://0xbtc.info/)
 - [Etherscan](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 - [0xBitcoin Explorer](http://explorer.0xbtc.io/)
-- [0xBitchain 0xBTC Monitor](https://monitor.0xbitchain.com/dashboard)
-- [Epirus](https://explorer.0xbitchain.com/contracts)
 - [EnjinX](https://enjinx.io/eth/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/transfers)
 - [Ethplorer](https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31)
 
@@ -88,6 +86,10 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [0xBTCpay](https://github.com/0xBrian/0xBTCpay) Webshop-agnostic 0xBitcoin payment backend
 - [0xBTCpay-demo](https://github.com/0xBrian/0xBTCpay-demo)
 - [0xBitcoin-memes](https://github.com/0xBrian/0xBitcoin-memes) Images related to 0xBitcoin, made by the community.
+- ### 0xBitchain - Level 2 0xBitcoin themed Quorum Ethereum sidechain
+    - [0xBitchain Discord](https://discord.gg/9aTgeWN)
+    - [0xBitchain Monitor by ConsenSys](https://monitor.0xbitchain.com/dashboard)
+    - [0xBitchain Block Explorer by Epirus](https://explorer.0xbitchain.com/contracts)
 - [0xbitcoin-discord-stats](https://github.com/rockmtn/0xbitcoin-discord-stats) Generate graphs of usage of the 0xBitcoin Discord.
 - [stats-api-0xbtc](https://github.com/rockmtn/stats-api-0xbtc) 0xBitcoin stats API (Ruby)
 - [0xbtc-miner-feed](https://github.com/rockmtn/0xbtc-miner-feed) Low-latency mining parameters server for 0xBitcoin miners (Rust)

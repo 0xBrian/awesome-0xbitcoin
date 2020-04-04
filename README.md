@@ -15,6 +15,10 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [0xBTC.info API information](https://0xbtc.info/api)
 - [What To Mine](https://whattomine.com/coins/315-0xbtc-sha3solidity)
 
+## Faucets
+- [0xBitcoin Gas Faucet](http://0xbitcoinfaucet.net/)
+- [The 0xBitcoin Faucet (Telegram)](https://t.me/the_0xbitcoin_faucet)
+
 ## Articles and explanations
 - [Official whitepaper](https://github.com/0xbitcoin/white-paper)
 - [The case for the Mineable ERC20 Token](https://medium.com/@admazzola/the-case-for-the-mineable-erc20-token-78cbb4c34331)

@@ -67,6 +67,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 
 ## Exchanges
 - ### Centralized
+    - [Resfinex](https://trade.resfinex.com/)
     - [MERCATOX](https://mercatox.com/exchange/0xBTC/ETH)
     - [Yobit](https://yobit.net/en/trade/0XBTC/BTC)
 - ### Decentralized

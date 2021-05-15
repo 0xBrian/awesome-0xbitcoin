@@ -95,7 +95,6 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
 - [stats-api-0xbtc](https://github.com/rockmtn/stats-api-0xbtc) 0xBitcoin stats API (Ruby)
 - [0xbtc-miner-feed](https://github.com/rockmtn/0xbtc-miner-feed) Low-latency mining parameters server for 0xBitcoin miners (Rust)
 - ### Lava Token
-    - [Lava Token](https://lavatoken.com/)
     - [How to Transfer 0xBTC with no ETH](https://medium.com/@admazzola/how-to-transfer-0xbtc-with-no-eth-f88a95598c3c)
 - ### Nametag Token
     - [Nametag Token](https://nametagtoken.com/)
